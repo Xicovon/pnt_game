@@ -11,4 +11,4 @@ e.g. "C:\\Users\\<username>\\Downloads\\output.txt" 10
 
 Run main.py with an argument specifying the input file location
 
-e.g. "C::\\Users\\<username>\\Downloads\\output.txt"
+e.g. "C:\\Users\\<username>\\Downloads\\output.txt"
